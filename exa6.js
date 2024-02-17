@@ -24,5 +24,5 @@ function addTwoIntegers(num1, num2) {
 }
 
 // Example usage:
-console.log(addTwoIntegers(5, 3)); // Output: 8
+console.log(addTwoIntegers(9, 3)); // Output: 8
 console.log(addTwoIntegers(-7, 10)); // Output: 3
